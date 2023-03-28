@@ -139,7 +139,7 @@
 	<script type='text/javascript' src='Spaceman.js'></script>
 	<script type='text/javascript'>//<![CDATA[
 
-		const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"executable":"Spaceman","experimentalVK":false,"fileSizes":{"Spaceman.pck":16026192,"Spaceman.wasm":17860295},"focusCanvas":true,"gdnativeLibs":[]};
+		const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"executable":"Spaceman","experimentalVK":false,"fileSizes":{"Spaceman.pck":16029072,"Spaceman.wasm":17860295},"focusCanvas":true,"gdnativeLibs":[]};
 		var engine = new Engine(GODOT_CONFIG);
 
 		(function() {
